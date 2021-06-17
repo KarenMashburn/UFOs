@@ -1,15 +1,19 @@
 # UFOs
 
 ## Overview of the analysis:
-It has been requested that we filter the UFO sighting data for a more user friendly user. 
+It has been requested that we filter the UFO sighting data for a more user friendly experiance. 
 
 
 ## Results:
-I was not able to make the filters work. 
+
+I was still not able to get the table to load on the website.  
+
+The website should work by searching the date and retiveing all the sightings for that day.  
+
 
 
 
 ## Summary:
-I was not able to get the coding to work. 
-
+ 
+A possible modification would be to add the ability to search a range of dates.  
 One future recomendation would be to have the ability to retain the information that has been previously requested. 
